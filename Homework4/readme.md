@@ -42,7 +42,7 @@ From the lemmatized output, only **nouns** and **verbs** are kept.
 This script provides a clear, hands-on demonstration of how raw text can be cleaned, normalized, and prepared for NLP tasks such as text classification, information extraction, or semantic analysis.
 
 
-#Q2 Named Entity Recognition & Pronoun Ambiguity Detection
+# Q2 Named Entity Recognition & Pronoun Ambiguity Detection
 
 This script performs **Named Entity Recognition (NER)** using a transformer-based model and then checks the text for ambiguous pronouns that may cause confusion.
 

@@ -1,6 +1,6 @@
 ***
 
-# Separating Signal from Noise: Predicting AI Startups’ Sustainability Using Multi-Modal AnalysisPredicting AI Startup Sustainability Using Multi-Modal Analysis
+# Separating Signal from Noise: Predicting AI Startups’ Sustainability Using Multi-Modal Analysis
 
 ### CS 5710 - Machine Learning Project
 

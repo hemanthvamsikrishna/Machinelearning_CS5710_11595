@@ -6,8 +6,8 @@
 
 ## Team Information
 Presented By   
-Hemanth Vamsi Krishna Devadula
-Manikanth Reddy Devarapalli
+Hemanth Vamsi Krishna Devadula,
+Manikanth Reddy Devarapalli,
 Sathwika Mummidi
 
 **Course:** CS 5710-11595   - Machine Learning  
